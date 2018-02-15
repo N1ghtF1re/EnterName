@@ -1,7 +1,8 @@
 About program
 --------------------
 The program asks you for a name and welcomes you on the screen
-#Language: Assembler (FASM)
+
+####Language: Assembler (FASM)
 
 Technical requirements
 --------------------
